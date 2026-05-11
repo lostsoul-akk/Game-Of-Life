@@ -96,7 +96,7 @@ def init():
     size = (display.current_w, display.current_h)
     grid = Grid(\
             (0,0),\
-            (320,200),\
+            (320,180),\
             size,\
             (200,200,200),\
             (60, 60, 60), 1)
